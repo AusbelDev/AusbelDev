@@ -19,7 +19,7 @@
 <a href="https://twitter.com/ausbeldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asusbeldev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marcos-rrh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos-rrh" height="30" width="40" /></a>
 <a href="https://instagram.com/ausbeldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ausbeldev" height="30" width="40" /></a>
-<a href="https://discord.gg/Ausbel#4694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ausbel#4694" height="30" width="40" /></a>
+<a href="https://discord.gg/Ausbel#4694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ev3yN9DK" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
