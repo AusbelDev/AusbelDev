@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Marcos "Ausbel" Hernandez</h1>
 <h3 align="center">Full-Stack Developer | Machine Learning Engineer | Physics Engineer</h3>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Web Development** and **Applied ML**
 
 - 🌱 I’m currently learning **React, React Native**
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python and Neural Networks**
 
-- 📫 How to reach me **mr.rochahernandez@gmail.com**
+- 📫 How to reach me **mr.rochahernandez@gmail.com** or **ausbel.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
