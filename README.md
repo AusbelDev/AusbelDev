@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Marcos "Ausbel" Hernandez</h1>
 <h3 align="center">Full-Stack Developer | Machine Learning Engineer | Physics Engineer</h3>
 
-- 🔭 I’m currently working on **Web Development** and **Applied ML**
+- 🔭 I’m currently working on **App Development** and **Applied ML**
 
-- 🌱 I’m currently learning **React, React Native**
+- 🌱 I’m currently learning **Flutter, Go**
 
-- 👯 I’m looking to collaborate on **Any Web or ML project**
+- 👯 I’m looking to collaborate on **Any App or ML project**
 
 - 🤝 I’m looking for help with **Web Development**
 
