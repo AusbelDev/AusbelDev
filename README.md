@@ -1,26 +1,86 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Marcos "Ausbel" Hernandez</h1>
-<h3 align="center">Full-Stack Developer | Machine Learning Engineer | Physics Engineer</h3>
+<h1 align="center">Hi, I'm Marcos “Ausbel” Rocha Hernandez 👋</h1>
 
-- 🔭 I’m currently working on **App Development** and **Applied ML**
-
-- 🌱 I’m currently learning **Flutter, Go**
-
-- 👯 I’m looking to collaborate on **Any App or ML project**
-
-- 🤝 I’m looking for help with **Web Development**
-
-- 💬 Ask me about **Python and Neural Networks**
-
-- 📫 How to reach me **mr.rochahernandez@gmail.com** or **ausbel.dev@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ausbeldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asusbeldev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marcos-rrh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos-rrh" height="30" width="40" /></a>
-<a href="https://instagram.com/ausbeldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ausbeldev" height="30" width="40" /></a>
-<a href="https://discord.gg/Ausbel#4694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/kTMqEbhrAc" height="30" width="40" /></a>
+<p align="center">
+  <strong>Developer Specialist · Python & Backend Engineering · AI Agents & Computer Vision</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  Building practical tools that connect AI, software, and everyday work.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcos-rrh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let%27s_connect-0A66C2?style=flat-square" alt="Connect with Marcos on LinkedIn" />
+  </a>
+  <a href="mailto:ausbel.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_hello-2563EB?style=flat-square" alt="Email Marcos" />
+  </a>
+</p>
+
+---
+
+## A little about me
+
+I'm a developer based in **Guanajuato, Mexico**, currently working as a **Developer Specialist at Optimen**. My background in physics engineering and computer vision research shapes how I approach software: understand the problem, build a useful solution, and check that it works.
+
+I work mainly with **Python**, building backend integrations, automation, and AI tooling. I also develop in **Go** and **Flutter**, and bring experience in deep learning, real-time vision, and security auditing.
+
+Many of my projects start with a task I want to make easier, from implementing code changes to logging work and reading numerical data from physical displays.
+
+## Things I've built
+
+### 🧠 [AgOrC / Orchestrator](https://github.com/AusbelDev/AgOrC)
+
+**A terminal app that coordinates AI coding agents through planning, implementation, and review.**
+
+I built it to automate parts of my coding workflow, including implementing changes from supplied Jira task specifications. It integrates **Claude Code, Codex, and Antigravity**, with configurable models and reasoning for each role.
+
+Git worktrees isolate changes; verification checks and review findings drive revision loops. A **Textual** interface, **SQLite** history, pause/resume controls, and saved skill snapshots make runs inspectable and recoverable.
+
+`Python` · `asyncio` · `Multi-agent workflows` · `Git worktrees` · `Textual` · `SQLite`
+
+### 🔌 mcp-kimai
+
+**An MCP server connecting AI assistants to time tracking and Outlook.**
+
+Built to simplify my own work, then shared with coworkers who also use it. It exposes tools for timesheet operations, calendar integration, availability calculations, and PDF reporting.
+
+The engineering focus is on controlled actions: typed inputs, overlap validation, dry-run previews, caller-scoped storage, and encrypted credential caches.
+
+`Python` · `FastMCP` · `PostgreSQL` · `Microsoft Graph` · `MSAL` · `Docker`
+
+### 📷 ezSP
+
+**A cross-platform mobile app that extracts numerical readings from physical displays using computer vision.**
+
+Built with **Flutter/Dart** and **OpenCV**, with attention to image processing efficiency and responsive mobile interfaces.
+
+`Flutter` · `Dart` · `OpenCV` · `Computer vision`
+
+## My toolkit
+
+| Area | Technologies & practices |
+| :--- | :--- |
+| **AI agents & automation** | Multi-agent orchestration, MCP, FastMCP, Claude Code, Codex, Antigravity, structured outputs, verification loops |
+| **Backend & data** | Python, Go, FastAPI, Flask, Django, Pydantic, HTTPX, PostgreSQL, SQLite |
+| **ML & computer vision** | PyTorch, TensorFlow, OpenCV, scikit-learn, CNNs, real-time SLAM, ROS, C++ |
+| **Mobile** | Flutter, Dart |
+| **Engineering & security** | Docker, Linux, Git, GitHub Actions, pytest, API authentication, tenant isolation, penetration testing |
+
+## From physics to software
+
+- **Master of Science and Technology**, Centro de Investigaciones en Óptica (CIO).
+- **Bachelor of Physics Engineering**, Universidad de Guanajuato.
+- Research experience with CNNs for real-time SLAM, RGB-D mapping, and surgical smoke detection.
+
+That foundation keeps me interested in the space where algorithms meet real systems, whether it's a camera, an API, or an AI agent with tools.
+
+---
+
+### Let's build something useful
+
+I'm open to **remote opportunities and collaboration** in Python backend engineering, AI agents, automation, and applied computer vision.
+
+**Spanish:** native · **English:** professional working proficiency
+
+[Connect on LinkedIn](https://www.linkedin.com/in/marcos-rrh/) · [Email me](mailto:ausbel.dev@gmail.com) · [Explore my repositories](https://github.com/AusbelDev?tab=repositories)
